@@ -21,6 +21,7 @@ Currently working on real-time AI-integrated full-stack projects and Machine Lea
 <br>
 ![](https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manaskng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
