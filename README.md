@@ -63,13 +63,15 @@
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaskng&theme=dark&hide_border=false&layout=compact&langs_count=6" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=manaskng&theme=dark&hide_border=false" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&show_icons=true" width="48%" />
   
   <br/>
   <br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manaskng&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaskng&theme=dark&hide_border=false&layout=compact&langs_count=6" width="48%" />
+  
   <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
 </div>
 
@@ -90,11 +92,6 @@
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<div align="center">
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=manaskng&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <br/>
