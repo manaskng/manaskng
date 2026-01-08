@@ -60,21 +60,23 @@
 
 ---
 
-### 📊 GitHub Stats:
-![alt text](https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![alt text](https://nirzak-streak-stats.vercel.app/?user=manaskng&theme=dark&hide_border=false)
-<br/>
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- ### 📊 LeetCode Stats:
-![alt text](https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark)
+### 📊 GitHub & LeetCode Stats
 
-<br>
-![alt text](https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true)
-🏆 GitHub Trophies
-![alt text](https://github-profile-trophy.vercel.app/?username=manaskng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manaskng&theme=dark&hide_border=false" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
 
-###  Contribution Snake
+  <br/><br/>
+  
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true" />
+</div>
+
+### 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/manaskng/manaskng/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
