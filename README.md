@@ -63,7 +63,7 @@
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" /> -->
   
   <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
 
