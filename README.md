@@ -63,16 +63,16 @@
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=manaskng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=manaskng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" width="48%" />
   
   <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
 
   <br/><br/>
-  
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true" />
+
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true" width="60%" />
 </div>
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 <div align="center">
   <img src="https://github.com/manaskng/manaskng/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
