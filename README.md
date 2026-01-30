@@ -63,7 +63,9 @@
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaskng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" width="48%" />
+  <div align="center">
+  <img src="https://metrics.lecoq.io/manaskng?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Asia%2FKolkata" width="80%" />
+</div>
   
   <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
 
