@@ -71,7 +71,7 @@
 
   <br/><br/>
 
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true"  height="250px" width="600px" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Manas_RJ1024&theme=dark&animated=true"  height="500px" width="900px" />
 </div>
 
 ###  Contribution Snake
