@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Manas+Raj;SDE+%7C+DTU+CSE;Full+Stack+%7C+Machine+Learning+%7C+Compilers;Generative+AI+%7C+Agentic+AI+Systems;LeetCode+Knight+%E2%80%94+Top+2%25+%7C+Rating+2051" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Manas+Raj;Winter-Intern@IIT-ROPAR+%7C+DTU+CSE;Full+Stack+%7C+Machine+Learning+%7C+Compilers;Generative+AI+%7C+Agentic+AI+Systems;LeetCode+Knight+%E2%80%94+Top+2%25+%7C+Rating+2051" alt="Typing SVG" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manas-raj-a9293330b/">
@@ -28,7 +28,7 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 - 🏆 **Goldman Sachs India Hackathon 2026** — 100/100, Rank 1 across 15,000+ submissions
 - ⚔️ **LeetCode Knight** — Top 2%, Rating 2051, 800+ problems solved
 - 📘 **AlgoUniversity DP Camp** — Top 2.5% of 40,000 participants under Codeforces Master mentorship
-- 🔬 **Open Source** — Contributor to Vibe (IIT Ropar ed-tech platform), PR #972
+- 🔬 **Open Source** — Contributor to Vibe (IIT Ropar ed-tech platform)
 - 🎓 **IIT Ropar** — Winter Intern 2026
 
 ---
