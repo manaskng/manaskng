@@ -1,57 +1,28 @@
-# Hi, I'm Manas Raj 👋
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Manas+Raj;SDE+Intern+%40+IIT+Ropar+%7C+CSE+%40+DTU;Full+Stack+Developer+%7C+Competitive+Programming;Deep+Packet+Inspection+%7C+Compiler+Design;LeetCode+Knight+%7C+800%2B+Problems+Solved" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=SDE+Intern+%40+IIT+Ropar;B.Tech+CSE+%40+DTU;Full+Stack+Developer;Deep+Packet+Inspection+%7C+Compilers+%7C+AI+Systems;LeetCode+Knight+%7C+800%2B+Problems+Solved" />
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/manas-raj-a9293330b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:manasraj850@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/manaskng">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/Manas_RJ1024/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=manaskng&color=blueviolet&style=flat" />
-
+  <a href="https://www.linkedin.com/in/manas-raj-a9293330b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manasraj850@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/manaskng">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Manas_RJ1024/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=manaskng&color=blueviolet&style=flat" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-B.Tech Computer Science student at **Delhi Technological University (DTU)** with a strong interest in systems engineering, developer tools, full-stack applications, distributed systems, compiler design and AI-powered products.
-
-Currently:
-
-* SDE Intern @ IIT Ropar
-* Building scalable web applications
-* Exploring RAG & Agentic AI systems
-* Practicing competitive programming and DSA
-
----
-
-## 🏆 Achievements
-
-| Achievement                      | Details                              |
-| -------------------------------- | ------------------------------------ |
-| ⚔️ LeetCode Knight               | Top 2% • Rating 2051 • 800+ Problems |
-| 🥇 Goldman Sachs India Hackathon | Rank 1 • Score 100/100               |
-| 📘 AlgoUniversity DP Camp        | Top 2.5% among 40,000+ participants  |
-| 🌟 GDG Solution Challenge        | AI-driven solution recognition       |
-| 🔖 GitHub Badges                 | Pull Shark • Starstruck              |
-
----
+B.Tech Computer Engineering student at **Delhi Technological University (DTU)** — CGPA 9.105.
+I build full-stack systems, machine learning pipelines, and compiler tooling. My work spans real-time collaborative applications, ML-powered recommendation engines, neural networks, research paper implementations, and low-level compiler design. Currently exploring **Generative AI**, **RAG pipelines**, and **Agentic AI systems**.
 
 ## 🚀 Featured Projects
 
@@ -79,101 +50,102 @@ Currently:
 
 </div>
 
-### PacketSentinel
+## Competitive Programming & Achievements
 
-Multi-threaded Deep Packet Inspection engine written in pure C++17.
-
-* 438,000 packets/sec throughput
-* 4,990 concurrent active flows
-* TLS SNI, HTTP Host & DNS inspection
-* Real-time analytics dashboard
-* Zero external dependencies
-
-🔗 Repository: https://github.com/manaskng/PacketSentinel
-
-🌐 Live Demo: https://packet-sentinel.vercel.app/
+| | |
+|---|---|
+| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON parser in C++ |
+| ⚔️ **LeetCode Knight** | Top 2% · Rating 2051 · 800+ problems |
+| 📘 **AlgoUniversity DP Camp** | Top 2.5% of 40,000 · Codeforces Master mentorship |
+| 🌟 **GDG Solution Challenge** | Certificate of Achievement · AI-driven solution |
+| 🔖 **GitHub Badges** | Pull Shark · Starstruck |
 
 ---
 
-### Open Source Contributions — Vibe (IIT Ropar)
+## Tech Stack
 
-#### PR #1051
+**Languages**
 
-Infrastructure and workflow reliability improvements.
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-https://github.com/vicharanashala/vibe/pull/1051
+**Frontend**
 
-#### PR #1052
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 
-Platform robustness and developer experience enhancements.
+**Backend & Infrastructure**
 
-https://github.com/vicharanashala/vibe/pull/1052
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+**Generative AI & Agentic Systems**
+
+![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=flat)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 🧠 Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Full Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### AI / ML
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-
----
-
-## 🏆 LeetCode Statistics
+## GitHub & Competitive Programming Stats
 
 <div align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=manaskng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaskng&theme=dark&hide_border=true" width="48%" />
+</div>
 
-<img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
+<br/>
 
-<img src="https://leetcode-stats-six.vercel.app/api?username=Manas_RJ1024&theme=dark" width="48%" />
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Manas_RJ1024&theme=dark" width="48%" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Contribution Activity
 
 <div align="center">
-
-<img src="https://readme-stats-fast.vercel.app/api?username=manaskng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manaskng&theme=dark&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://github.com/manaskng/manaskng/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github.com/manaskng/manaskng/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-
-### Let's Connect
-
-<a href="mailto:manasraj850@gmail.com">[manasraj850@gmail.com](mailto:manasraj850@gmail.com)</a>
-
+  <i>Open to SDE internships, research collaborations, and open-source contributions.</i>
+  <br/><br/>
+  <a href="mailto:manasraj850@gmail.com">manasraj850@gmail.com</a>
 </div>
