@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Manas+Raj;SDE+Intern+%40+IIT+Ropar+%7C+CSE+%40+DTU;Full+Stack+Developer+%7C+Competitive+Programming;Deep+Packet+Inspection+%7C+Compiler+Design;LeetCode+Knight+%7C+800%2B+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1050&lines=Hi%2C+I%27m+Manas+Raj;SDE+Intern+%40+IIT+Ropar+%7C+LeetCode+Knight+%7C+2051;Full-Stack+Development+%7C+Competitive+Programming;Machine+Learning+%7C+Deep+Learning+%7C+RAG;Systems+Programming" alt="Typing SVG" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manas-raj-a9293330b/">
@@ -22,45 +22,34 @@
 ## About
 
 B.Tech Computer Engineering student at **Delhi Technological University (DTU)** — CGPA 9.105.
+
 I build full-stack systems, machine learning pipelines, and compiler tooling. My work spans real-time collaborative applications, ML-powered recommendation engines, neural networks, research paper implementations, and low-level compiler design. Currently exploring **Generative AI**, **RAG pipelines**, and **Agentic AI systems**.
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/manaskng/DevNexus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=DevNexus&theme=radical&hide_border=true" width="47%" />
+<a href="https://github.com/manaskng/PacketSentinel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=PacketSentinel&theme=github_dark&hide_border=true" width="47%" />
 </a>
 
-<a href="https://github.com/manaskng/Dev-Event_Sync">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=Dev-Event_Sync&theme=radical&hide_border=true" width="47%" />
+<a href="https://github.com/manaskng/MiniC_Compiler">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=MiniC_Compiler&theme=github_dark&hide_border=true" width="47%" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/manaskng/PacketSentinel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=PacketSentinel&theme=radical&hide_border=true" width="47%" />
+<a href="https://github.com/manaskng/DevNexus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=DevNexus&theme=github_dark&hide_border=true" width="47%" />
 </a>
 
-<a href="https://github.com/manaskng/MiniC_Compiler">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=MiniC_Compiler&theme=radical&hide_border=true" width="47%" />
+<a href="https://github.com/manaskng/Dev-Event_Sync">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=Dev-Event_Sync&theme=github_dark&hide_border=true" width="47%" />
 </a>
 
 </div>
-
-## Competitive Programming & Achievements
-
-| | |
-|---|---|
-| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON parser in C++ |
-| ⚔️ **LeetCode Knight** | Top 2% · Rating 2051 · 800+ problems |
-| 📘 **AlgoUniversity DP Camp** | Top 2.5% of 40,000 · Codeforces Master mentorship |
-| 🌟 **GDG Solution Challenge** | Certificate of Achievement · AI-driven solution |
-| 🔖 **GitHub Badges** | Pull Shark · Starstruck |
-
----
 
 ## Tech Stack
 
@@ -133,6 +122,17 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
   <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
   <img src="https://leetcode-stats-six.vercel.app/api?username=Manas_RJ1024&theme=dark" width="48%" />
 </div>
+
+---
+## Competitive Programming & Achievements
+
+| | |
+|---|---|
+| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON parser in C++ |
+| ⚔️ **LeetCode Knight** | Top 2% · Rating 2051 · 800+ problems |
+| 📘 **AlgoUniversity DP Camp** | Top 2.5% of 40,000 · Codeforces Master mentorship |
+| 🌟 **GDG Solution Challenge** | Certificate of Achievement · AI-driven solution |
+| 🔖 **GitHub Badges** | Pull Shark · Starstruck |
 
 ---
 
