@@ -22,14 +22,17 @@
 ## About
 
 B.Tech Computer Engineering student at **Delhi Technological University (DTU)** — CGPA 9.105.
-
 I build full-stack systems, machine learning pipelines, and compiler tooling. My work spans real-time collaborative applications, ML-powered recommendation engines, neural networks, research paper implementations, and low-level compiler design. Currently exploring **Generative AI**, **RAG pipelines**, and **Agentic AI systems**.
 
-- 🏆 **Goldman Sachs India Hackathon 2026** — 100/100, Rank 1 across 15,000+ submissions
-- ⚔️ **LeetCode Knight** — Top 2%, Rating 2051, 800+ problems solved
-- 📘 **AlgoUniversity DP Camp** — Top 2.5% of 40,000 participants under Codeforces Master mentorship
-- 🔬 **Open Source** — Contributor to Vibe (IIT Ropar ed-tech platform)
-- 🎓 **IIT Ropar** — Winter Intern 2026
+## Competitive Programming & Achievements
+
+| | |
+|---|---|
+| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON parser in C++ |
+| ⚔️ **LeetCode Knight** | Top 2% · Rating 2051 · 800+ problems |
+| 📘 **AlgoUniversity DP Camp** | Top 2.5% of 40,000 · Codeforces Master mentorship |
+| 🌟 **GDG Solution Challenge** | Certificate of Achievement · AI-driven solution |
+| 🔖 **GitHub Badges** | Pull Shark · Starstruck |
 
 ---
 ## Tech Stack
@@ -94,7 +97,7 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Relay</h3>
+      <h3 align="center"> Relay</h3>
       <p align="center">
         <a href="https://github.com/manaskng/DevNexus">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -121,7 +124,7 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Evenix</h3>
+      <h3 align="center"> OppLens</h3>
       <p align="center">
         <a href="https://github.com/manaskng/Dev-Event_Sync">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -150,7 +153,7 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔧 MiniC Compiler <em>(In Progress)</em></h3>
+      <h3 align="center">AstraC_Compiler </em></h3>
       <p align="center">
         <a href="https://github.com/manaskng/minic-compiler">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -259,18 +262,6 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
   <img src="https://leetcard.jacoblin.cool/Manas_RJ1024?ext=heatmap&theme=dark" width="48%" />
   <img src="https://leetcode-stats-six.vercel.app/api?username=Manas_RJ1024&theme=dark" width="48%" />
 </div>
-
----
-
-## Competitive Programming & Achievements
-
-| | |
-|---|---|
-| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON parser in C++ |
-| ⚔️ **LeetCode Knight** | Top 2% · Rating 2051 · 800+ problems |
-| 📘 **AlgoUniversity DP Camp** | Top 2.5% of 40,000 · Codeforces Master mentorship |
-| 🌟 **GDG Solution Challenge** | Certificate of Achievement · AI-driven solution |
-| 🔖 **GitHub Badges** | Pull Shark · Starstruck |
 
 ---
 
