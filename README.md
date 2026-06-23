@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Manas+Raj;Winter-Intern@IIT-ROPAR+%7C+DTU+CSE;Full+Stack+%7C+Machine+Learning+%7C+Compilers;Generative+AI+%7C+Agentic+AI+Systems;LeetCode+Knight+%E2%80%94+Top+2%25+%7C+Rating+2051" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manas-raj-a9293330b/">
@@ -28,10 +29,11 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 - 🏆 **Goldman Sachs India Hackathon 2026** — 100/100, Rank 1 across 15,000+ submissions
 - ⚔️ **LeetCode Knight** — Top 2%, Rating 2051, 800+ problems solved
 - 📘 **AlgoUniversity DP Camp** — Top 2.5% of 40,000 participants under Codeforces Master mentorship
-- 🔬 **Open Source** — Contributor to Vibe (IIT Ropar ed-tech platform)
+- 🔬 **Open Source** — Contributor to Vibe (IIT Ropar ed-tech platform) [PR #972](https://github.com/vicharanashala/vibe/pull/972)
 - 🎓 **IIT Ropar** — Winter Intern 2026
 
 ---
+
 ## Tech Stack
 
 **Languages**
@@ -62,6 +64,7 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 **AI / ML**
 
@@ -74,7 +77,6 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 **Generative AI & Agentic Systems**
 
 ![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=flat)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -82,175 +84,110 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
-## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Relay</h3>
-      <p align="center">
-        <a href="https://github.com/manaskng/DevNexus">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://devnexus-app.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>Collaborative Developer Productivity Workspace</strong></p>
-      <p>Real-time MERN workspace with collaborative coding sandbox, AI-assisted workflows, and high-performance search.</p>
-      <ul>
-        <li>Socket.IO collaborative editor — presence indicators, typing awareness</li>
-        <li>Gemini API for AI-assisted code explanation and refactoring</li>
-        <li>MongoDB Atlas Search — sub-10ms latency, ~40% query improvement</li>
-        <li>Docker deployment, JWT auth, session-scoped activity logs</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io" />
-        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Evenix</h3>
-      <p align="center">
-        <a href="https://github.com/manaskng/Dev-Event_Sync">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://dev-event-sync.vercel.app">
-          <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>ML-Powered Event Discovery, Recommendation & Booking</strong></p>
-      <p>Full-stack platform aggregating tech events and college societies with personalised ML recommendations.</p>
-      <ul>
-        <li>Hybrid ML microservice — TF-IDF + collaborative filtering, cold-start handling</li>
-        <li>Race-condition-free booking engine — MongoDB atomic ops, 100% consistency</li>
-        <li>NextAuth v5 OAuth, optimistic UI updates, dynamic OpenGraph images</li>
-        <li>Role-aware access control across organiser and attendee flows</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔧 MiniC Compiler <em>(In Progress)</em></h3>
-      <p align="center">
-        <a href="https://github.com/manaskng/minic-compiler">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>C-Subset to Assembly Compiler</strong></p>
-      <p>Multi-stage compiler for a C subset written in C++ — parser, semantic analysis, IR, and optimizations.</p>
-      <ul>
-        <li>Hand-written recursive-descent parser, AST, type checking, scope resolution</li>
-        <li>3-address IR (TAC) with basic-block CFG construction</li>
-        <li>Constant folding, dead-code elimination, copy propagation — ~25% instruction reduction</li>
-        <li>100+ pytest cases covering pointer arithmetic, nested scopes, register spilling</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
-        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"> Bank Churn Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/manaskng">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>ANN with TensorFlow & Keras</strong></p>
-      <p>Neural network model predicting customer churn on 10,000 bank records with interpretability analysis.</p>
-      <ul>
-        <li>3-layer ANN (64→32→16) — 86.2% accuracy, AUC-ROC 0.87</li>
-        <li>Dropout, BatchNorm, L2 reg, EarlyStopping, ReduceLROnPlateau</li>
-        <li>Threshold optimization, permutation importance, Adam vs SGD vs RMSprop</li>
-        <li>Projected $4M+ annual retention saving from churn reduction</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"> Proximity Forest</h3>
-      <p align="center">
-        <a href="https://github.com/manaskng">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>Time Series Classifier — Research Implementation</strong></p>
-      <p>Implementation and analysis of Proximity Forest (Lucas et al., 2019) — benchmarked on 85 UCR Archive datasets.</p>
-      <ul>
-        <li>Gini-impurity splitting with stochastic selection from 11 elastic distance measures per-node</li>
-        <li>Eliminated O(n²) cross-validation overhead of Elastic Ensemble baseline</li>
-        <li>Confirmed 10⁵× speedup on 1M-series SITS dataset — O(n log n) vs O(n²·l³)</li>
-        <li>32-page technical report with complexity visualisations and critical-difference diagrams</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"> Open Source — Vibe</h3>
-      <p align="center">
-        <a href="https://github.com/vicharanashala/vibe/pull/972">
-          <img src="https://img.shields.io/badge/PR%20%23972-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x220/0d1117/58a6ff?text=IIT+Ropar+Ed-Tech" width="100%" alt="Vibe" />
-      </p>
-      <p><strong>IIT Ropar Ed-Tech Platform Contribution</strong></p>
-      <p>Open-source contribution to Vibe — an IIT Ropar platform for adaptive student assessment.</p>
-      <ul>
-        <li>Replaced brittle sys.exit(1) paths with structured PipelineStep abstraction</li>
-        <li>Interactive Retry/Skip/Abort UI with persistent JSON state tracking</li>
-        <li>Preflight port validation across 6 critical services — eliminated silent setup failures</li>
-        <li>Unified stdout/stderr logging and --clean CLI flag for deterministic env reset</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🚀 What I've Built
+
+<div align="center">
+  <a href="https://github.com/manaskng/DevNexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=DevNexus&theme=radical&hide_border=true&cache_seconds=1" width="47%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/manaskng/Dev-Event_Sync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=Dev-Event_Sync&theme=radical&hide_border=true&cache_seconds=1" width="47%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/manaskng/AstraC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=AstraC&theme=radical&hide_border=true&cache_seconds=1" width="47%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/manaskng/PacketSentinel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manaskng&repo=PacketSentinel&theme=radical&hide_border=true&cache_seconds=1" width="47%" />
+  </a>
+</div>
+
+---
+
+## Projects — Deep Dive
+
+### ⚡ Relay — Real-Time Collaborative Developer Workspace
+> **[GitHub](https://github.com/manaskng/DevNexus)** · **[Live](https://devnexus-app.vercel.app/)** · **[Demo ▶️](https://youtu.be/EKsHeZQpwYA)**
+
+Production-grade MERN workspace unifying collaborative coding, AI assistance, documentation, and search into one platform.
+
+- **Custom RAG pipeline** — Mongoose pre-save hooks auto-generate 768-dim embeddings via `text-embedding-004`; Atlas `$vectorSearch` injects top-3 personal context into Gemini prompts, eliminating hallucination
+- **Real-time collaboration** — Socket.IO multi-user editor with live cursors, typing indicators, color-coded presence, and race-condition-free activity logs (MongoDB TTL auto-cleanup)
+- **Atlas Search (Lucene)** — fuzzy matching (Levenshtein ≤2), title-boosted relevance; ~8ms vs ~500ms regex (**~60× faster**)
+- **Redis sliding-window rate limiting** — AI: 10 req/min, Compiler: 15 req/min; dual-model failover (Gemini 2.5→2.0-flash)
+- **11-language code execution** — OnlineCompiler→Piston dual-compiler fallback pipeline
+
+`MERN` `Socket.IO` `Redis` `MongoDB Atlas Search` `Vector Search` `Gemini API` `Docker` `JWT`
+
+---
+
+### 🎯 OppLens — ML-Powered Opportunity Discovery Platform
+> **[GitHub](https://github.com/manaskng/Dev-Event_Sync)** · **[Live](https://dev-event-sync.vercel.app)**
+
+Unified aggregator for tech events, hackathons, and opportunities with semantic deduplication and personalized recommendations.
+
+- **Distributed scraping pipeline** across 10+ platforms (Unstop, Devfolio, MLH, Devpost, HackerEarth) — Playwright for JS-heavy sites, 300+ opportunities/day, exponential-backoff retry
+- **Semantic deduplication** using `sentence-transformers` (all-MiniLM-L6-v2) + cosine similarity — **~94% precision** on cross-platform duplicates
+- **Hybrid recommendation engine** — dense vector retrieval (pgvector) + recency/popularity ranking replacing TF-IDF baseline
+- **Race-condition-free booking** via MongoDB atomic operations — 100% consistency under concurrent access
+- **NextAuth v5 OAuth**, optimistic UI updates, role-aware access control
+
+`Next.js` `TypeScript` `FastAPI` `Python` `MongoDB` `pgvector` `sentence-transformers` `Playwright` `Docker`
+
+---
+
+### 🔧 AstraC — C-Subset to x86-64 Assembly Compiler
+> **[GitHub](https://github.com/manaskng/AstraC)**
+
+Multi-stage compiler for a C subset in C++17 — from source to real x86-64 assembly, no libraries.
+
+- **Full pipeline** — hand-written recursive-descent parser → AST → semantic analysis (type checking, scope resolution) → TAC IR → x86-64 codegen with register allocation and stack spilling
+- **CFG + optimizations** — constant folding, dead-code elimination, copy propagation — **~25% instruction reduction**
+- **GDB-compatible DWARF stubs** + symbol-table-driven linker helper resolving external labels
+- **100+ pytest cases** covering pointer arithmetic, nested scopes, and register-spilling edge cases
+
+`C++17` `x86-64 Assembly` `DWARF` `CMake` `GDB` `pytest` `Valgrind`
+
+---
+
+### 🛡️ PacketSentinel — Multi-threaded Deep Packet Inspection Engine
+> **[GitHub](https://github.com/manaskng/PacketSentinel)**
+
+Production-grade DPI engine in C++17 — no libpcap, raw byte-level packet parsing with multi-threaded architecture.
+
+- **Raw protocol parsing** — manual byte-walking through Ethernet/IP/TCP headers using `ntohs()`/`ntohl()` for byte-order handling
+- **TLS SNI extraction** — walks Client Hello extensions at byte-offset level (0x16 content type → 0x01 handshake → extension 0x0000) to extract domain from encrypted HTTPS traffic
+- **Multi-threaded pipeline** — Reader → Load Balancer threads → Fast Path threads (consistent hashing on 5-tuple, per-FP flow tables, no hot-path locking) → Output Writer
+- **Thread-safe queue** — mutex + condition_variable (no busy-looping), bounded with backpressure
+- **12 app classifications** — YouTube, Netflix, TikTok, Facebook, Discord, Google, GitHub and more; HTTP Host header + DNS query parsing as additional classification signals
+
+`C++17` `PCAP` `x86-64` `pthreads` `CMake` `Scapy` `Python`
 
 ---
 
 ## GitHub & Competitive Programming Stats
 
 <div align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=manaskng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaskng&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manaskng&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manaskng&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manaskng&theme=radical" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manaskng&theme=radical" width="97%" />
 </div>
 
 <br/>
@@ -266,23 +203,11 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 
 | | |
 |---|---|
-| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON parser in C++ |
+| 🏆 **Goldman Sachs India Hackathon 2026** | 100/100 · Rank 1 · 15,000+ submissions · Recursive JSON→TypeScript parser in C++ |
 | ⚔️ **LeetCode Knight** | Top 2% · Rating 2051 · 800+ problems |
 | 📘 **AlgoUniversity DP Camp** | Top 2.5% of 40,000 · Codeforces Master mentorship |
 | 🌟 **GDG Solution Challenge** | Certificate of Achievement · AI-driven solution |
 | 🔖 **GitHub Badges** | Pull Shark · Starstruck |
-
----
-
-## Areas of Interest
-
-```
-├── Full Stack Engineering       → MERN, Next.js, REST APIs, Real-time Systems (Socket.IO)
-├── Machine Learning             → Recommendation Systems, ANN, Time Series Classification
-├── Generative AI                → RAG Pipelines, Vector Search, LLM Integration, Embeddings
-├── Agentic AI Systems           → Tool-use, Multi-step Reasoning, Agent Orchestration
-└── Compiler & Systems Design    → Parsing, AST, IR/CFG, Optimizations, Low-level C++
-```
 
 ---
 
@@ -295,7 +220,7 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 ---
 
 <div align="center">
-  <i>Open to SDE internships, research collaborations, and open-source contributions.</i>
+  <i>Open to SDE roles, research collaborations, and open-source contributions.</i>
   <br/><br/>
   <a href="mailto:manasraj850@gmail.com">manasraj850@gmail.com</a>
 </div>
