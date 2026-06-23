@@ -17,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=manaskng&color=blueviolet&style=flat" />
 </div>
 
----
 
 ## About
 
@@ -106,7 +105,6 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
 
 ## GitHub & Competitive Programming Stats
 
@@ -122,7 +120,6 @@ I build full-stack systems, machine learning pipelines, and compiler tooling. My
   <img src="https://leetcode-stats-six.vercel.app/api?username=Manas_RJ1024&theme=dark" width="48%" />
 </div>
 
----
 ## Competitive Programming & Achievements
 
 | | |
