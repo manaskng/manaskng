@@ -20,7 +20,6 @@
 
 <br/>
 
----
 
 ## About Me
 
@@ -130,7 +129,7 @@ I build high-performance software across systems programming, distributed system
       </div>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong>MiniC Compiler <em>(In Progress)</em></strong></p>
+      <p align="center"><strong>AstraC Compiler</strong></p>
       <p align="center">
         <a href="https://github.com/manaskng/MiniC_Compiler">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
